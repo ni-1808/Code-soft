@@ -53,6 +53,9 @@ git clone https://github.com/yourusername/Moviesrecommand.git
 cd Moviesrecommand
 
 
+
+
+
 ## Download & Extract Dataset
 --Movielens 100k 
 download the dataset on the  form this link --https://files.grouplens.org/datasets/movielens/ml-100k.zip--
@@ -60,3 +63,10 @@ download the dataset on the  form this link --https://files.grouplens.org/datase
 ▶️ Run the App
 
 streamlit run Moviesrecommand.py
+
+
+
+
+
+### Output
+<img width="1014" height="889" alt="Screenshot 2025-07-23 203525" src="https://github.com/user-attachments/assets/993f474d-c814-4438-be96-62c18e4aded9" />
