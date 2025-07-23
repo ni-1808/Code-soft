@@ -36,4 +36,9 @@ This is a beginner-friendly, **rule-based chatbot** built using Python. It uses 
    cd rule_based_chatbot.py
 
 
+##Sample Output
+<img width="1583" height="404" alt="Screenshot 2025-07-23 203222" src="https://github.com/user-attachments/assets/7bd45612-b82c-4f57-b71c-8b327d87526e" />
+
+
+
 
