@@ -24,6 +24,11 @@ This is a classic Tic-Tac-Toe game where a human player competes against an AI. 
 
 - Python 3.x
 
+
+
+## Output
+<img width="724" height="900" alt="Screenshot 2025-07-23 203748" src="https://github.com/user-attachments/assets/6977849c-03d8-4334-b9a3-1cf567ad3027" />
+
 ## ▶️ How to Run
 
 1. Clone this repository or download the Python file.
@@ -35,5 +40,4 @@ cd tic-tac-toe-minimax
 
 
 
-##Output
-<img width="724" height="900" alt="Screenshot 2025-07-23 203748" src="https://github.com/user-attachments/assets/6977849c-03d8-4334-b9a3-1cf567ad3027" />
+
