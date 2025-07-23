@@ -8,7 +8,8 @@ This app recommends movies to users based on the ratings of other similar users 
 
 ## 📸 Demo
 
-![App Screenshot](https://user-images.githubusercontent.com/your-screenshot.png) <!-- Optional -->
+<img width="724" height="900" alt="image" src="https://github.com/user-attachments/assets/e3dbd0f6-62e7-47a8-b402-1c2f1e20ad5c" />
+ <!-- Optional -->
 
 ---
 
@@ -68,5 +69,4 @@ streamlit run Moviesrecommand.py
 
 
 
-### Output
-<img width="1014" height="889" alt="Screenshot 2025-07-23 203525" src="https://github.com/user-attachments/assets/993f474d-c814-4438-be96-62c18e4aded9" />
+
